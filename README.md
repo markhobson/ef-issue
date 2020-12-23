@@ -39,3 +39,7 @@ The fetched Post title should be "B" but is "A".
 1. Re-run the app and it correctly outputs:
 
         Blog post title = B
+
+## See also
+
+* [#23757 Lazy one-to-one entity changes lost on one-to-many fetch](https://github.com/dotnet/efcore/issues/23757)
