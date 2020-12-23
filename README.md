@@ -42,4 +42,4 @@ The fetched Post title should be "B" but is "A".
 
 ## See also
 
-* [#23757 Lazy one-to-one entity changes lost on one-to-many fetch](https://github.com/dotnet/efcore/issues/23757)
+* [#23757 Lazy one-to-one entity changes lost when invoking navigation property](https://github.com/dotnet/efcore/issues/23757)
